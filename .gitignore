@@ -1,0 +1,10 @@
+results/
+Revision_Analysis_20261122/
+*.RData
+*.rds
+*.RDS
+*.csv
+*.tsv
+*.txt
+.Rhistory
+.RData
